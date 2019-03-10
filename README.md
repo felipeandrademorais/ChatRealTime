@@ -1,2 +1,2 @@
 # ChatRealTime
-Chat with Socket.io with node.js
+Chat with Socket.io and node.js

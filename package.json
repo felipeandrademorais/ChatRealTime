@@ -1,0 +1,14 @@
+{
+  "name": "ChatRealTime",
+  "version": "1.0.0",
+  "description": "A simple chat in node",
+  "main": "server.js",
+  "repository": "https://github.com/felipeandrademorais/ChatRealTime.git",
+  "author": "Felipe Andrade de Morais",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
